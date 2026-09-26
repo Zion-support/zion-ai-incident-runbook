@@ -1,11 +1,15 @@
-# 🔗 Zion AI App Network
+# Zion AI App Network
 
-Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+Zion AI Incident Runbook is part of the **Zion Tech Group AI App Network** — 600+ AI micro-apps and agents.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-incident-runbook/
-- 🔗 Related: [Incident Runbook](https://ziontechgroup.com/incident-runbook/) · [Zion AI Incident Commander](https://ziontechgroup.com/zion-ai-incident-commander/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/
 
-© 2026 Zion Tech Group.
+## Related apps
+
+- Blameless Postmortem Generator — https://ziontechgroup.com/postmortem-generator/
+- Site Uptime Watchdog — https://ziontechgroup.com/site-uptime-watchdog/
+- Zion AI Ticket Sentinel — https://ziontechgroup.com/zion-ai-ticket-sentinel/
+
+---
+© 2026 Zion Tech Group
