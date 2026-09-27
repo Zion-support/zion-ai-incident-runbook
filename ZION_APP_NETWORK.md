@@ -1,15 +1,12 @@
-# Zion AI App Network
+# Zion App Network — Interlinks for zion-ai-incident-runbook
 
-Zion AI Incident Runbook is part of the **Zion Tech Group AI App Network** — 600+ AI micro-apps and agents.
+Zion AI Incident Runbook is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-- 🌐 Live app: https://ziontechgroup.com/zion-ai-incident-runbook/
-- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/
+- Live app: https://ziontechgroup.com/zion-ai-incident-runbook/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 55 spotlight (SRE, Reliability & Incident Response): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH55.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html
 
-## Related apps
+## Related reliability apps
+[SLI/SLO Tracker](https://ziontechgroup.com/sli-slo-tracker/) · [Release Risk Radar](https://ziontechgroup.com/release-risk-radar/) · [Deployment Guardian AI](https://ziontechgroup.com/deployment-guardian-ai/) · [Incident Commander AI](https://ziontechgroup.com/incident-commander-ai/) · [Chaos Engineering AI](https://ziontechgroup.com/chaos-engineering-ai/) · [On-call Optimizer AI](https://ziontechgroup.com/oncall-optimizer-ai/)
 
-- Blameless Postmortem Generator — https://ziontechgroup.com/postmortem-generator/
-- Site Uptime Watchdog — https://ziontechgroup.com/site-uptime-watchdog/
-- Zion AI Ticket Sentinel — https://ziontechgroup.com/zion-ai-ticket-sentinel/
-
----
-© 2026 Zion Tech Group
+© 2026 Zion Tech Group · https://ziontechgroup.com
